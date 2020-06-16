@@ -25,8 +25,8 @@ $("document").ready(function() {
         ],
         // Here, you can specify all information for the deployment
         deploy: {
-            experimentID: "134",
-            serverAppURL: "https://magpie-demo.herokuapp.com/api/retrieve_experiment/134",
+            experimentID: "95",
+            serverAppURL: "https://magpie-demo.herokuapp.com/api/submit_experiment/",
             // Possible deployment methods are:
             // "debug" and "directLink"
             // As well as "MTurk", "MTurkSandbox" and "Prolific"
