@@ -432,10 +432,15 @@ const main_trials = {
             j: "different",
         },
         {
+            question: "Are the figures the same or different ones?",
             picture: "images/main/7_150_same.jpg",
             item: 7,
             expected: "same",
             angle: 150,
+            key1: "f",
+            key2: "j",
+            f: "same",
+            j: "different",
         },
         {
             question: "Are the figures the same or different ones?",
